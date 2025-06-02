@@ -10,10 +10,17 @@ This dashboard provides:
 - Key session metrics
 - Interactive visualization using Streamlit & Plotly
 
-## Dataset
+## Dataset Note
 
-- Source: [E-Commerce Behavior Dataset (Kaggle)](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
-- Size: 9GB of raw logs including `event_type`, `user_id`, `user_session`, and timestamps
+The original dataset (~9GB) is not included in this repository due to GitHub file size limitations.
+
+To run the project locally:
+
+1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+2. Place the file in this path: `data/raw/`
+
+Once placed, follow the instructions in the Jupyter notebooks to clean and analyze the data.
+
 
 ## Tech Stack
 

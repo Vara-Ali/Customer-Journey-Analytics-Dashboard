@@ -1,6 +1,6 @@
 # Customer Journey Analytics Dashboard
 
-An interactive data analytics project that analyzes and visualizes customer behavior throughout their e-commerce journey — from product views to purchases.
+An interactive data analytics project that analyzes and visualizes customer behavior throughout their e-commerce journey from product views to purchases.
 
 ## Project Overview
 
@@ -36,3 +36,7 @@ This dashboard provides:
 
 1. Clone the repo
 2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```

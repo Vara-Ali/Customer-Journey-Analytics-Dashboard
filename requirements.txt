@@ -1,0 +1,17 @@
+# Core Data Libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+plotly==5.21.0
+matplotlib==3.8.4
+
+# Dashboard Framework
+streamlit==1.35.0
+
+# Jupyter Support
+ipykernel==6.29.4
+jupyter==1.0.0
+
+# Dev Tools
+python-dotenv==1.0.1

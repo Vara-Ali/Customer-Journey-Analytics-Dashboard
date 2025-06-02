@@ -40,3 +40,31 @@ This dashboard provides:
 ```bash
 pip install -r requirements.txt
 ```
+3. Run Streamlit app:
+```bash
+cd scripts
+streamlit run dashboard_app.py
+```
+
+## Project Structure
+
+customer-journey-dashboard/
+├── data/
+│ ├── raw/ # Original CSVs from Kaggle
+│ └── cleaned_events.csv # Preprocessed data
+├── notebooks/
+│ ├── 01_exploration.ipynb
+│ └── 02_funnel_analysis.ipynb
+├── scripts/
+│ └── dashboard_app.py # Streamlit dashboard
+├── README.md
+└── requirements.txt
+
+## Dashboard Preview
+
+![image](https://github.com/user-attachments/assets/55877338-4e59-4303-a418-43b6827bf9f5)
+
+
+## License
+
+Open-source for educational use.
